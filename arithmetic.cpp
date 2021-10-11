@@ -1,3 +1,4 @@
+//Arithmetic example
 #include <iostream>
 using namespace std;
 
