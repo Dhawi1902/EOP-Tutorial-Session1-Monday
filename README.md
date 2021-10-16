@@ -1,6 +1,6 @@
 # Elements of Programming Tutorial
 1. Datatype, Declarations and Displays
-2. Assignments and Interactive Input
+1. Assignments and Interactive Input
 3. Selection
 4. Repetition
 5. Modularity Using Functions
