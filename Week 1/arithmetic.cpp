@@ -1,19 +1,18 @@
-//Arithmetic example
+/*
+	Arithmetic
+		+ addition
+		- subtraction (or negation)
+		* multiplication
+		/ division
+		% mod (modulus or remainder)
+
+	**Follows bodmas rule
+*/
+
 #include <iostream>
 using namespace std;
 
 int main() {
-	
-	/*
-	Arithmetic: 
-	1. bracket: ()
-	2. division: /, and multiplication: *, remainder: %
-	3. Addition: + and subtraction: -
-	
-	** %: modulus
-	
-	Will always follows BODMAS rule
-	*/
 	
 	int r = 10;
 	double pi = 3.1495;
