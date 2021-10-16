@@ -1,5 +1,6 @@
 # Elements of Programming Tutorial
-* Things that are going to be covered in the tutorial:
+This course has been designed to introduce students to the fundamentals of structured programming using C++.
+
 ## 1. Datatype, Declarations and Displays
 * 	Data Types
 * 	Arithmetic Operations
