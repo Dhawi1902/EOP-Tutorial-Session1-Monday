@@ -1,4 +1,5 @@
 # Elements of Programming Tutorial
+* Things that are going to be covered in the tutorial:
 ## 1. Datatype, Declarations and Displays
 * 	Data Types
 * 	Arithmetic Operations
