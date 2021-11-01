@@ -8,6 +8,7 @@
 //	double sale;
 //	char first;
 //	string str;
+//	int a =1;
 //	
 //	num1 = 4;
 //	num2 = 4 * 5 - 11;
@@ -20,6 +21,7 @@
 //	cout << sale << endl;
 //	cout << first << endl;
 //	cout << str << endl;
+//	cout << a;
 //
 //	return 0;
 //}

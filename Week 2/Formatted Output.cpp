@@ -37,6 +37,8 @@ int main()
 	cout << "a" << endl;
 	cout << a << endl;
 	cout << b << endl;
+	cout << "Value of a: " << a << endl;
+	cout << "Value of b divided by 2: " << b/2 << endl;
 	return 0;
 }
 

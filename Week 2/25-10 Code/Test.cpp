@@ -4,15 +4,21 @@
 using namespace std;
 
 int main(){
-	int input,power;
+	double a= 4.1234, b =3, c = 3.0;
 	
-//	cout << "Enter 2 number separated by space" <<endl;
-//	cin >> input >> power;
-//	cout << pow(input, power);
-
-	cout << "Enter a number ";
-	cin >> input;
-	cout << sqrt(input);
+	
+	cout << noshowpoint;
+	cout << a << endl;
+	cout << b << endl;
+	cout << c << endl;
+	
+	cout << showpoint;
+	cout << a << endl;
+	cout << b << endl;
+	cout << c << endl;
+	
+//	cout << scientific;
+//	cout <<a;
 	return 0;
 }
 
