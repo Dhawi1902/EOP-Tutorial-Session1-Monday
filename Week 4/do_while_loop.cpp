@@ -24,6 +24,7 @@ int main()
 		num = num / 10; //remove the last digit
 	}
 	while (num > 0);
+	
 		cout << "The sum of the digits = " << sum << endl;
 	if (sum % 9 == 0)
 		cout<< temp << " is divisible by 3 and 9" << endl;
