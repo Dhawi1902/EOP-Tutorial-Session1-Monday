@@ -7,7 +7,7 @@ double poolCapacity(double len, double wid, int dep);
 
 int main(){
 
-	cout << poolCapacity(1,1,1) << endl;
+	cout << poolCapacity(1,1,1)<<endl;
 	cout << poolCapacity(1,1,1.1);
 	return 0;
 }
