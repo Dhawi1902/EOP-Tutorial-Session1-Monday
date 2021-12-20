@@ -11,8 +11,8 @@ using namespace std;
 
 int main(){
 	int response[4][10][6] = {
-							{/*page 0*/{1,2,3},{7,8,9}},
-							{/*page 1*/{3,4,5},{6,7,8}}
+							/*page 0*/{/*row 0 */{ 1,2,3},/*row 1 */{7,8,9}},
+							/*page 1*/{{3,4,5},{6,7,8}}
 							};
 
 	for (int i=0; i<4; i++ )

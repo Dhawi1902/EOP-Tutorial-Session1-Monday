@@ -7,7 +7,7 @@ i.e: int amounts [5];
 
 2.
 initialize array elements
-dataType arrayName [arraySize] = {value1.value2, value3,...}
+dataType arrayName [arraySize] = {value1, value2, value3,...};
 i.e: int amounts [5] = {1,2,3}
 */
 
