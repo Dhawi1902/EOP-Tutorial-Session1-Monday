@@ -16,6 +16,7 @@ int main(){
 	
 	grade[0]=4;
 	grade[3]=10;
+	grade[4]=11;
 	int *gPtr;
 	gPtr = &grade[0];
 	
@@ -31,6 +32,7 @@ int main(){
 	
 	//If does not include asterisk *
 	cout << gPtr + 3; // Address of grade[0] + 3;
+	cout << gPtr + 4; // Address of grade[0] + 3;
 
 	return 0;
 }
