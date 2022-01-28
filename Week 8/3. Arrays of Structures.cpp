@@ -19,7 +19,8 @@ struct employeeType
 //Initialize array of type structure
 employeeType employees[10]={"A","B", 1, "C", 2 , 3, 4, 5,
 							"WER","Ber",1, "C", 2 , 3, 4, 5,
-							"Intro","Program"};
+							"Intro","Program",1 , "C", 2, 3, 4, 5,
+							"aiman", "johari"};
 
 
 //Access array of type structure
