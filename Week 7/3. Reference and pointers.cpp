@@ -22,6 +22,8 @@ int main(){
 	//Assgign new values to a reference variable
 	a = 10;     // this changes b's value to 10
 
+	cout << &a << endl;
+	cout << &b << endl;
 	cout << b << endl;
 	
 	//Using pointers 
@@ -31,10 +33,15 @@ int main(){
 	//Assgign new values to a pointer
 	*c = 27; 	// this changes d's value to 10
 	
+	cout << &d << endl;
+	cout << &c << endl;
 	//Pointer can be used to point to different variable address
 	//Automatic dereference will only change the value of the intially referenced variable address
 	int x = 5;
 	c = &x;
+	
+	cout << &x << endl;
+	cout << &c << endl;
 	cout << d << endl;
 	cout << *c;
 
